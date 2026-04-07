@@ -1,1 +1,15 @@
-[]
+[
+    {
+        "id": "WI3EgINBNtsqgPeUOIeeJPcGUEsW4X2S",
+        "plugin": "charted-roots",
+        "language": "zh-cn",
+        "version": "0.20.51",
+        "supported_versions": "0.20.51",
+        "title": "Charted Roots",
+        "description": "Charted Roots Localization & Tweaks",
+        "hash": "705e73e8705e73e8705e73e8705e73e8",
+        "created_at": "2026-04-07T05:28:16.834Z",
+        "updated_at": "2026-04-07T05:28:16.834Z",
+        "type": "plugin"
+    }
+]
